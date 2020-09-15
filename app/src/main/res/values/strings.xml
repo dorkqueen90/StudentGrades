@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StudentGrades</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="add_grade">Add Grade</string>
+    <string name="hours">Hours:</string>
+    <string name="gpa">GPA:</string>
+    <string name="course_name">Course Name</string>
+    <string name="credit_hours">Credit Hours</string>
+    <string name="grade">Grade:</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="f">F</string>
+    <string name="submit">Submit</string>
+</resources>
